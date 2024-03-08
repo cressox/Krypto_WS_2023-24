@@ -6,18 +6,18 @@ This repository contains implementations of various cryptographic algorithms for
 
 ## Directory Structure
 
-- [01](./01/README.md): Additive Chiffre
-- [02](./02/README.md): Vigenère-Chiffre
-- [03](./03/README.md): Betriebsmodi
-- [04](./04/README.md): AES
-- [05](./05/README.md): AES Betriebsmodi
+- [Additive Chiffre](./01/README.md): 
+- [Vigenère-Chiffre](./02/README.md): 
+- [Betriebsmodi](./03/README.md): 
+- [AES](./04/README.md): 
+- [AES Betriebsmodi](./05/README.md): 
 - [06](./06/README.md): 
 - [07](./07/README.md):
-- [08](./08/README.md): RSA
-- [09](./09/README.md): RSA Key
-- [10](./10/README.md): Diffie Hellman
-- [11](./11/README.md): SHA 3
-- [12](./12/README.md): SHA 3 Complete
+- [RSA](./08/README.md): 
+- [RSA Key](./09/README.md): 
+- [Diffie Hellman](./10/README.md): 
+- [SHA 3](./11/README.md): 
+- [SHA 3 Complete](./12/README.md): 
 
 ## Usage
 
